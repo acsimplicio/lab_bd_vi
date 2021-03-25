@@ -1,2 +1,5 @@
 # ignora arquivos de IDE
 .theia
+.classpath
+.project
+.settings
