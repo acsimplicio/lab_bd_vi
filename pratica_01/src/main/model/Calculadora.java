@@ -3,12 +3,11 @@ package model;
 public class Calculadora {
 
     public int fatorial(int n) {
-        int fat = 1;
-        for (int i = 1; i <= n; i = i + 1) {
-            fat = fat * i;
+        if (n == 0) {
+            return 1;
         }
 
-        return fat;
-}
+        return n * fatorial(n - 1);
+    }
 
 }
