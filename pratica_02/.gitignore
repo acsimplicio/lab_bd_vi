@@ -1,0 +1,11 @@
+# ignora cache do gradle
+.gradle
+bin
+
+# ignora aquivos de build gradle
+build
+
+# ignora arquivos de IDE
+.classpath
+.project
+.settings
