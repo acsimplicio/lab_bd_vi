@@ -8,3 +8,4 @@ Partição 1 - Valores positivos (0 a N) - Válido
 Partição 2 - Valores negativos (-1 a -N) -  Inválido
 - Exemplo: <-1, 0>
 
+Link do vídeo de apresentação: https://youtu.be/y6Ii6Ly1FMs
